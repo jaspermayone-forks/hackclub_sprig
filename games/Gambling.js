@@ -3,7 +3,7 @@ First time? Check out the tutorial game:
 https://sprig.hackclub.com/gallery/getting_started
 
 @title: Gambling
-@description: 
+@description: A dice rolling gambling simulator where you bet money and try to double it.
 @author: Aryan Jain
 @tags: ['gambling', 'dice', 'cool game', 'dice rolling', 'gamble']
 @addedOn: 2026-01-04
