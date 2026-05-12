@@ -2,7 +2,7 @@
 @title: Match Point
 @author: Vidit
 @description: A retro-style 2 player pong game where the first player to reach 7 points wins.
-@tags: sports, arcade, multiplayer, pong
+@tags: ['sports', 'arcade', 'multiplayer', 'pong']
 @addedOn: 2026-05-12
 */
 
